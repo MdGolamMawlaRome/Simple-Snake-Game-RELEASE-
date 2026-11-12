@@ -26,7 +26,7 @@ Welcome to this repository! This project is dedicated to releasing a lightweight
 
 ## 🎮 How to Play
 
-<!--  *(Add your installation or gameplay instructions here, e.g., how to run the game or controls)*
+* To play my game you just have to go to the release and then download and then just install it using your file manager, Google play will not ask for permission or block the app, because this contains nothing but only the game. Good luck on the journey. *
 
 * Use the arrow keys (or on-screen controls) to navigate the snake.
 * Eat the food to grow longer and score points.
