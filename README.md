@@ -1,4 +1,4 @@
-# 🐍 Classic Snake Game
+# 🐍 Simple Snake Game
 
 > A simple, clean, and engaging implementation of the classic Snake game that many of us love, want, or sometimes even hate! 
 
@@ -26,7 +26,7 @@ Welcome to this repository! This project is dedicated to releasing a lightweight
 
 ## 🎮 How to Play
 
-*(Add your installation or gameplay instructions here, e.g., how to run the game or controls)*
+<!--  *(Add your installation or gameplay instructions here, e.g., how to run the game or controls)*
 
 * Use the arrow keys (or on-screen controls) to navigate the snake.
 * Eat the food to grow longer and score points.
